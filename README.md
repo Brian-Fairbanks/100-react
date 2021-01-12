@@ -1,5 +1,5 @@
 # Description
-<img src="https://raw.githubusercontent.com/Brian-Fairbanks/DiceRollerz/master/client/public/icons/DRZ.png" align="right" alt="BF Logo by Brian Fairbanks" width="150" height="150">
+<img src="https://raw.githubusercontent.com/Brian-Fairbanks/" align="right" alt="BF Logo by Brian Fairbanks" width="150" height="150">
 (temporary image, remember to replace this later)
 
 This project is an extension of my 100-days project, in which I can implement React Components as projects for the day. 

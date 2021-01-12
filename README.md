@@ -1,8 +1,36 @@
-# Getting Started with Create React App
+# Description
+<img src="https://raw.githubusercontent.com/Brian-Fairbanks/DiceRollerz/master/client/public/icons/DRZ.png" align="right" alt="BF Logo by Brian Fairbanks" width="150" height="150">
+(temporary image, remember to replace this later)
+
+This project is an extension of my 100-days project, in which I can implement React Components as projects for the day. 
+
+The deployed page can be seen at: [https://brian-fairbanks.github.io/100-react/](https://brian-fairbanks.github.io/100-react/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## Table of Contents
+* [License](#license)
+* [Scripts](#Scripts)
+* [Dependencies](#dependencies)
+* [Questions](#questions)
+* [Demo](#demo)
+
+
+## License
+
+<details open>
+<summary>ICS License</summary>
+<br>
+Copyright 2020 Brian Fairbanks
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+</details>
+
+## Scripts
 
 In the project directory, you can run:
 
@@ -39,10 +67,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### `npm predeploy`
+### `npm run predeploy`
   set up predeployment to GH-Pages
 
-### `npm deploy`
+### `npm run deploy`
 Deploy ptroject to GH-Pages
 
 ## Learn More
@@ -74,3 +102,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Questions
+If you have any questions about this application, feel free to reach out to one of our members below:
+
+<img src="https://avatars0.githubusercontent.com/u/59707181?v=4" height="32" width="32"> | brian.k.fairbanks@gmail.com
+
+
+## Demo
+As listed above, The deployed page can be seen at: [https://brian-fairbanks.github.io/100-react/](https://brian-fairbanks.github.io/100-react/)

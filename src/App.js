@@ -1,10 +1,10 @@
 import './App.css';
-import './components/Header'
-import Header from './components/Header';
-import Intro from './components/Intro';
-import Outro from './components/Outro';
-import Footer from './components/Footer';
-import ProjectWall from './components/projectWall';
+import Header from './components/MainPage/Header';
+import Intro from './components/MainPage/Intro';
+import Outro from './components/MainPage/Outro';
+import Footer from './components/MainPage/Footer';
+import ProjectWall from './components/MainPage/projectWall';
+import Timer from "./components/Timer";
 
 function App() {
   return (
